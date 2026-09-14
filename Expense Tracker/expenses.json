@@ -1,0 +1,32 @@
+[
+  {
+    "amount": 25.5,
+    "category": "food",
+    "description": "Lunch at cafe",
+    "date": "2024-01-15 12:30:45"
+  },
+  {
+    "amount": 15.0,
+    "category": "travel",
+    "description": "Bus fare to work",
+    "date": "2024-01-15 14:20:10"
+  },
+  {
+    "amount": 50.0,
+    "category": "utilities",
+    "description": "Internet bill",
+    "date": "2024-01-14 09:15:30"
+  },
+  {
+    "amount": 120.0,
+    "category": "shopping",
+    "description": "New shoes",
+    "date": "2024-01-14 16:45:00"
+  },
+  {
+    "amount": 8.5,
+    "category": "food",
+    "description": "Coffee and muffin",
+    "date": "2024-01-13 08:00:22"
+  }
+]
